@@ -1,8 +1,8 @@
 sbtPlugin := true
 
-version := "1.6-SNAPSHOT"
+version := "1.0"
 
-organization := "sean8223"
+organization := "io.oseberg"
 
 name := "jooq-sbt-plugin"
 
